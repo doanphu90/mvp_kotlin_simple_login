@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoCoroutines</string>
+    <string name="input_password">input password</string>
+    <string name="login">Login</string>
+    <string name="loginsuccess">Login is Success!</string>
+    <string name="loginfail">Login Fail</string>
+    <string name="emailnull">Email not null</string>
+    <string name="email_invalid">Email invalid</string>
+    <string name="passnull">PassWord not null</string>
+</resources>
